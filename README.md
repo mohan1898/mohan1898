@@ -18,4 +18,4 @@ While pursuing my degree, I've been developed a responive web application using 
 Flask, a lightweight Python web framework, for building elegant web applications and APIs. Minimalistic yet powerful, Flask offers flexibility and extensibility, making it perfect for projects of any scale. Let's code something awesome with Flask!
 🔍 Let's Connect:
 
-Explore my repositories to see examples of my work and projects. I'm always open to collaboration opportunities and eager to connect with fellow developers and enthusiasts. Feel free to reach out for discussions, feedback, or exciting project ideas!
+Explore my repositories to see examples of my work and projects. I'm always open to collaboration opportunities and eager to connect with fellow developers and enthusiasts. 

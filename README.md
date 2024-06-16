@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://flask-portfolio-wcw9.onrender.com/](https://flask-portfolio-wcw9.onrender.com/)
 
-- 💬 Ask me about **Python,SQL,Django,Flask,ReactJs,**
+- 💬 Ask me about **Python,SQL,Django,Flask,ReactJs**
 
 - 📫 How to reach me **mohanyelamarthi5@gmail.com**
 

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://flask-portfolio-wcw9.onrender.com/](https://flask-portfolio-wcw9.onrender.com/)
+- 👨‍💻 All of my projects are available at [
+https://mohansai-profile.netlify.app/#portfolio]
 
 - 💬 Ask me about **Python,SQL,Django,Flask,ReactJs**
 
